@@ -19,4 +19,8 @@ CREATE TABLE pledges (
     user_id INTEGER,
     project_id INTEGER
     );
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> 0b77b6643bf580a5bf152df999feef514fc91e72
